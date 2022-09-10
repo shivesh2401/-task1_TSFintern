@@ -1,0 +1,27 @@
+<style>
+        
+             .color
+              {
+                  font-family: sans-serif;
+              }
+              
+              .stylee
+              {
+                  text-align: center;
+                  font-family: sans-serif;
+              }
+            
+             #Footer
+              {
+                bottom: 0px;
+                position: fixed;
+                left: 0px;
+                width: 100%;
+                background-color: darkgray;
+                color: cornsilk;
+                font-family: cursive;
+                text-align: center;
+        
+              }
+
+</style>
